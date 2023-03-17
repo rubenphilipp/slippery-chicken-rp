@@ -1,0 +1,14 @@
+#+title: slippery-chicken-rp
+#+author: Ruben Philipp
+#+date: [2023-03-17 Fri]
+#+startup: showall 
+
+A loose set of extensions for Michael Edward's [[https://github.com/mdedwards/slippery-chicken][slippery-chicken]].
+
+In order to use one of the files, include them via
+~(load "/path/to/file.lsp")~.
+
+Details on /slippery-chicken/ can be found [[https://github.com/mdedwards/slippery-chicken][here]].
+
+
+$$ Last modified:  16:04:25 Fri Mar 17 2023 CET
